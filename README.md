@@ -5,5 +5,5 @@
 
 3. Open the terminal and enter
 ```bash
-git status
+        git status
 ```
