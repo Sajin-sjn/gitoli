@@ -60,4 +60,20 @@ This command used to stage all changes to tracked files and commit them in one s
 
 - NB : If you need to include new files or deletions, you should use git add first, followed by git commit
 
-- - -
+---
+
+```bash
+    git pull origin main
+```
+Fetches new data from the remote repository and immediately merges it into your current branch.
+
+---
+
+```bash
+    git remote add origin <remote_repository_URL>
+```
+- **git remote add :** This part of the command is used to add a new remote repository to your local Git repository.
+- **origin :** This is the name you’re giving to the remote repository. By convention, origin is the default name used for the main remote repository, but you can name it anything you like.
+- **<remote_repository_URL>:**  This is the URL of the remote repository where you want to push your code. This URL can be an HTTPS URL, an SSH URL, or another supported URL format.
+
+
