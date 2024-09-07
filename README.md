@@ -50,3 +50,13 @@
         - Your changes become visible to other collaborators who have access to the remote repository
 
 ⇒ Theses are all the major steps you have to take to start your project on local repo and push the changes to remote repo
+
+
+## Maximum effort
+```bash
+    git add -am "your commit message"
+```
+This command used to stage all changes to tracked files and commit them in one step
+
+- NB : If you need to include new files or deletions, you should use git add first, followed by git commit
+
