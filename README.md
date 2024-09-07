@@ -7,8 +7,8 @@
 ```bash
     git clone "your repo web url"
 ```
-    ⇒ cloning
-        - You create a local copy of the project from a remote repository (e.g., GitHub, GitLab). This allows you to work on the project    files locally.
+⇒ cloning
+    - You create a local copy of the project from a remote repository (e.g., GitHub, GitLab). This allows you to work on the project    files locally.
 
 4. Open the terminal and enter
 ```bash
