@@ -60,5 +60,4 @@ This command used to stage all changes to tracked files and commit them in one s
 
 - NB : If you need to include new files or deletions, you should use git add first, followed by git commit
 
---- 
-
+***
