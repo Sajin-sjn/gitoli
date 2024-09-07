@@ -14,8 +14,8 @@
 ```bash
     git status
 ```
-    ⇒ command explanation
-        - The command git status shows the current state of your Git repository
+⇒ command explanation
+    - The command git status shows the current state of your Git repository
 
 5. Now the files are tracked by the git, When you modify a file in the cloned repository, Git detects that the file has been changed. The file's status changes from "unmodified" to "modified," meaning the file is different from its version in the repository.
 
@@ -29,15 +29,15 @@
 ```bash
     git add .
 ```
-    ⇒ command explanation
-        - When you modify files, they are in your working directory. git add moves these changes to the staging area, where you prepare them for committing.
+⇒ command explanation
+    - When you modify files, they are in your working directory. git add moves these changes to the staging area, where you prepare them for committing.
 
 8. After staging the modifications by executing the above command , execute
 ```bash
     git commit -m "Describe what changes were made"
 ```
-    ⇒ command explanation
-        - Commits or records the staged files with a descriptive message explaining the changes. Each commit creates a snapshot of the project at a specific point in time.
+⇒ command explanation
+    - Commits or records the staged files with a descriptive message explaining the changes. Each commit creates a snapshot of the project at a specific point in time.
 
 9. The changes are recorded in your local repository. If you want to mark your changes in your remote repo, need to execute
 ```bash
