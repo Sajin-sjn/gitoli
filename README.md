@@ -76,4 +76,13 @@ Fetches new data from the remote repository and immediately merges it into your 
 - **origin :** This is the name you’re giving to the remote repository. By convention, origin is the default name used for the main remote repository, but you can name it anything you like.
 - **<remote_repository_URL>:**  This is the URL of the remote repository where you want to push your code. This URL can be an HTTPS URL, an SSH URL, or another supported URL format.
 
+---
+```bash
+    git rm --cached "your file to be deleted from git local repo"
+```
+---
+
+
+
+
 
