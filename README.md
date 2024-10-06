@@ -82,6 +82,13 @@ Fetches new data from the remote repository and immediately merges it into your 
 ```
 ---
 
+To uninititalize git or to remove the .git folder:
+---
+```bash
+    Remove-Item -Recurse -Force .git
+```
+---
+
 
 
 
